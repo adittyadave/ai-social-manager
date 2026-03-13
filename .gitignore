@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Secrets and Tokens
+client_secret.json
+token.pickle
+*.mp3
+*.mp4
+voiceover_*.mp3
+output_*.mp4
+.env
+
+# IDE
+.vscode/
+.idea/
+pyrightconfig.json
